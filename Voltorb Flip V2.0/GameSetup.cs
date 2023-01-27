@@ -72,6 +72,10 @@ namespace Voltorb_Flip_V2._0
                     _gameButtons[i,j].Left = xPos;
                     _gameButtons[i,j].Top = yPos;
 
+
+                    //Make some changes 1 
+
+
                     _gameButtons[i, j].Text = "?";
                     _gameButtons[i, j].Font = new Font("Segoe UI", 15);
 
